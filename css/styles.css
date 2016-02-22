@@ -61,7 +61,7 @@ text-decoration: none;
 color: #0000ff;
 }
 
-.form-group {
+.form-group, button {
   margin-right: 15px;
   margin-left: 950px;
   margin-top: -40px;
