@@ -61,20 +61,19 @@ text-decoration: none;
 color: #0000ff;
 }
 
-.fa-ul li {
+.form-group, button {
   margin-right: 15px;
   margin-left: 950px;
   margin-top: -40px;
   float: right;
   font-size: 1.5em;
   list-style: none;
-  border: 1px solid grey;
+  /*border: 2px solid blue;*/
   padding-right: 15px;
-  padding-left: 10px;
+  padding-left: 5px;
   color: black;
 
 }
-
 .nav-bar h1 {
   text-align: center;
   font-family: 'Brush Script MT', cursive;
